@@ -44,3 +44,4 @@ order.addObserver(new Inventory());
 order.addObserver(new PromotionSystem()); 
 
 order.completeOrder();
+export {};

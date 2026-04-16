@@ -30,7 +30,7 @@ class Person{
 //object creation
 const userName1= new Person();
 userName1.sayHello(userName);
-
+export {};
 
 
 

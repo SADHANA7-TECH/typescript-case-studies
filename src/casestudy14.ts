@@ -30,3 +30,5 @@ console.log(numberBox.getAll());
 
 console.log(getFirstItem([1, 2, 3])); 
 console.log(getFirstItem(["a", "b"])); 
+
+export {};

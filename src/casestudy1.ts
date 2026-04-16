@@ -12,3 +12,4 @@ console.log("my age is :"+age);
 //let age: string= 25;
 //console.log(age);
 
+export {};

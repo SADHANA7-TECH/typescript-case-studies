@@ -12,3 +12,4 @@ console.log(COUNTRY); // output will be South Korea
 
     //COUNTRY = " india"; //error because we can't change the const value once it is assigned
 
+export {};

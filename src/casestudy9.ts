@@ -26,3 +26,5 @@ let customerContainer: Container<Customer> = {
 };
 console.log(customer);
 console.log(customerContainer);
+
+export {};

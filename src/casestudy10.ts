@@ -57,3 +57,5 @@ checkSign(5);
 evenOrOdd(345);
 Grade(84);
 provideFeedback("B");
+
+export {};

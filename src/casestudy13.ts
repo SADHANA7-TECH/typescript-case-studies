@@ -19,3 +19,5 @@ describePerson("Frank", 28);
 
 console.log("Price after discount:", calculatePrice(100));
 console.log("price with 20% discount:", calculatePrice(100, 0.2));
+
+export {};

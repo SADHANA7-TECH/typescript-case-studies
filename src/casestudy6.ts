@@ -17,3 +17,4 @@ processTransaction(100, true, "salary");
 processTransaction(300, true); // description optional
 processTransaction(-200, false); // negative number
 
+export {};

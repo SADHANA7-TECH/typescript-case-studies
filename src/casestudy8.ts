@@ -31,3 +31,4 @@ function showProfile(profile: Profile): void {
 }
 showProfile(profile1);
 showProfile(profile2);
+export {};

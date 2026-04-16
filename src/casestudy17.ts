@@ -46,3 +46,5 @@ class Assignment extends Content {
     return "Assignment";
   }
 }
+
+export {};

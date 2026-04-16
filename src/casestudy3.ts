@@ -6,3 +6,4 @@ function weatherReport(city: string, temperature:number, israining: boolean){
     console.log("In "+city+ ", it is "+temperature+ "°C.Is it raining? " +israining);
 }
 weatherReport(city, temperature, israining);
+export {};

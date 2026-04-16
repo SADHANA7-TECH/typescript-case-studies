@@ -12,3 +12,4 @@ console.log(answer1);
 console.log(answer2);
 console.log(answer3);
 
+export {};

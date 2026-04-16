@@ -38,3 +38,5 @@ class FailingMockGateway implements PaymentGateway {
 const failingGateway = new FailingMockGateway();
 const testProcessor = new PaymentProcessor(failingGateway);
 testProcessor.pay(50);
+
+export {};

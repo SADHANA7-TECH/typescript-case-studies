@@ -31,3 +31,4 @@ type LearnerStats = {
 type StatsAsStrings = {
   [K in keyof LearnerStats]: string;
 };
+export {};

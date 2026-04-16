@@ -23,3 +23,5 @@ function SummaryOfStaff(staff: Staff[]): void{
 
 }
 SummaryOfStaff(staffMembers);
+
+export {};
